@@ -4,8 +4,7 @@
 
 
                                                   
-  ![cloud computing](https://github.com/user-attachments/assets/de93eb67-891e-47ea-a99f-04561a382810)
-
+ ![cloud computing](https://github.com/user-attachments/assets/de93eb67-891e-47ea-a99f-04561a382810)
 
 
 
