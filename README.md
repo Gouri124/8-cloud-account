@@ -5,7 +5,11 @@ What is Cloud Computing
 There are 5 Major Types of Cloud Service providers
   
   1.Microsoft Azure
+  
   2.AWS(Amazon Web Service)
+  
   3.Google Cloud Platforms(GCP)
+  
   4.Digital Ocean
+  
   5.Linode
