@@ -1,3 +1,17 @@
+
+
+
+                                                        ![cloud computing](https://github.com/user-attachments/assets/72242ae9-f310-40c9-b84a-1b70278f33fc)
+
+
+
+
+
+
+
+
+
+
 What is Cloud Computing
   
   Cloud computing is a general term for the on-demand delivery of hosted computing and IT services over the internet with pay-as-you-go pricing.Users can obtain technology services such as processing power, storage and databases from a cloud provider,eliminating the need to purchase, operate and maintain on-premises physical data centers and servers.we can manage cloud computing platforms at any time anywhere It saves lots of time and storage components
